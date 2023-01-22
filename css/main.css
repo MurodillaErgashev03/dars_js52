@@ -111,3 +111,22 @@ ul{
 .border-4{
     border: none;
 }
+
+
+.buttun-div-1{
+  margin-top: 80px;
+}
+.btn-num{
+    padding: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.16);
+    font-size: 16px;
+}
+.btn-num:active{
+    background: teal;
+    color: white;
+    font-size: 16px;
+}
+    
