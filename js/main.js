@@ -21,7 +21,7 @@ elForm.addEventListener("submit", function (ab)  {
   let num = elInput.value;
 
 
-  if( num > 10 ){
+  if( num > 9 ){
     elYellow.className = "border-1";
     elRed.className = "border-4";
 
